@@ -1,16 +1,19 @@
-## Hi there 👋
+Olá, eu sou o Adriano 👋
 
-<!--
-**AdrianoGabriel64/AdrianoGabriel64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de Software, com foco em desenvolvimento backend e caminhando rumo a uma especialização em Cibersegurança.
 
-Here are some ideas to get you started:
+Comecei minha jornada na programação sem experiência prévia e venho construindo minha base principalmente com Java, além de estudar Python como linguagem complementar.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 O que estou aprendendo
+Lógica de programação e fundamentos com Java
+Desenvolvimento backend
+Fundamentos de Cibersegurança
+Boas práticas de versionamento com Git e GitHub
+
+🛠️ Tecnologias
+
+Java,Python, Git, GitHub
+
+📫 Contato
+LinkedIn: www.linkedin.com/in/adriano-gabriel-601105414
+E-mail: adrianogabrielsantos73@gmail.com
